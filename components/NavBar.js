@@ -1,13 +1,7 @@
 import Link from 'next/link'
 
-const navBarStyle = {
-    backgroundColor: "red",
-    color: "white",
-    width: "100%",
-  };
-  
   const NavBar = () => (
-    <div className="NavBar" style={navBarStyle}>
+    <div className="NavBar">
         <ul>
             <li>
                 <Link href="/">
@@ -25,6 +19,11 @@ const navBarStyle = {
                 </Link>
             </li>
         </ul>
+        <style jsx>{`
+            background-color: red;
+            color: white;
+            width: 100%;
+        `}</style>
     </div>
   );
   

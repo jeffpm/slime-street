@@ -1,0 +1,1 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[9],{RNiq:function(n,e,i){"use strict";i.r(e);var t=i("nKUr"),o=i("5Yp1");e.default=function(){return Object(t.jsx)(o.a,{children:"Welcome to SlimeStreet!"})}},vlRD:function(n,e,i){(window.__NEXT_P=window.__NEXT_P||[]).push(["/",function(){return i("RNiq")}])}},[["vlRD",0,2,1,3]]]);
