@@ -1,1 +1,0 @@
-_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[8],{"1bZ5":function(n,i,t){"use strict";t.r(i);var _=t("nKUr"),w=t("5Yp1");i.default=function(n){return Object(_.jsx)(w.a,{title:"FAQs",children:"FAQs View"})}},"3HE9":function(n,i,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/faqs",function(){return t("1bZ5")}])}},[["3HE9",0,2,1,3]]]);

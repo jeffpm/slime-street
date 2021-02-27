@@ -1,1 +1,0 @@
-_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[7],{Juyh:function(n,t,u){"use strict";u.r(t);var o=u("nKUr"),i=u("5Yp1");t.default=function(n){return Object(o.jsx)(i.a,{title:"About Us",children:"About View"})}},rB5V:function(n,t,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/about",function(){return u("Juyh")}])}},[["rB5V",0,2,1,3]]]);
