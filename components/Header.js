@@ -2,7 +2,7 @@ import Image from "next/image"
 import Link from "next/link"
 const Header = () => (
     <div className="flex flex-col items-center py-2">
-    <Image src="/images/slime-street.svg" alt="slime-street-logo" height="250px" width="250px" />
+    <Image src="/images/slime-street.png" alt="slime-street-logo" height="250px" width="219px" />
 
       <nav className="flex" >
         <ul className="flex justify-center">
