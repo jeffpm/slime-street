@@ -17,7 +17,7 @@ export default function Layout({children, title = 'SlimeStreet',})
 
         <Header />
         
-        <div className="mb-auto">
+        <div className="flex-grow">
           {children}
         </div>
         <Footer />
