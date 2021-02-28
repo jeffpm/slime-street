@@ -17,7 +17,7 @@ export default function Layout({children, title = 'SlimeStreet',})
 
         <Header />
         
-        <div className="Content">
+        <div className="mb-auto">
           {children}
         </div>
         <Footer />
