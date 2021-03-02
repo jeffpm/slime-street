@@ -17,7 +17,7 @@ const Header = () => (
             </Link>
           </li>
           <li className="flex px-5 py-1 rounded-md hover:bg-gray-700 hover:text-white">
-            <Link href="/about">
+            <Link href="/faqs">
               <a>FAQs</a>
             </Link>
           </li>
