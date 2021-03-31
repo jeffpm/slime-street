@@ -16,13 +16,13 @@ const Header = () => (
             </Link>
           </li>
           <li className="flex px-5 py-1 rounded-md hover:bg-gray-700 hover:text-white">
-              <a href="https://etsy.com/slimestreetofficial">Etsy Shop</a>
+              <a href="https://www.etsy.com/shop/SlimeStreetOfficial">Etsy Shop</a>
           </li>
-          <li className="flex px-5 py-1 rounded-md hover:bg-gray-700 hover:text-white">
+          {/* <li className="flex px-5 py-1 rounded-md hover:bg-gray-700 hover:text-white">
             <Link href="/faqs">
               <a>FAQs</a>
             </Link>
-          </li>
+          </li> */}
         </ul>
       </nav>
       <div className="border-b w-screen"></div>
