@@ -12,7 +12,7 @@ export default function Product({ product }) {
         <main className="flex flex-col items-center flex-1 text-left py-2">
         
             <p>{product.name}</p>
-            <Image src={`/images/${product.image}`} height="200" width="200"></Image>
+            <Image src={`/images/${product.images[0]}`} height="200" width="200"></Image>
             <p>{product.description}</p>
         </main>
         </Layout>

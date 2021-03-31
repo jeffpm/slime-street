@@ -1,25 +1,30 @@
 unicorns:
     name: Unicorns
     description: Put your horn in the air like you just don't care with our Unicorn slime.
-    image: unicorns.png
+    images: 
+        - unicorns.png
     date: 03/02/2021
 robots:
     name: Robots
     description: Beep boop beep, I'm a robot and I'm cool.
-    image: robots.png
+    images: 
+        - robots.png
     date: 03/02/2021
 sports:
     name: Sports
     description: Everybody loves them.
-    image: sports.png
+    images: 
+        - sports.png
     date: 03/01/2021
 rainbows:
     name: Rainbows
     description: So many colors, oh my.
-    image: sports.png
+    images: 
+        - sports.png
     date: 03/01/2021
 princesses:
     name: Princesses
     description: Ana and Elsa, yeet!
-    image: sports.png
+    images: 
+        - beeshes.png
     date: 03/01/2021

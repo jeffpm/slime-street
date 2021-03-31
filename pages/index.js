@@ -17,7 +17,7 @@ export default function Home() {
           <div className="rounded-md hover:bg-gray-100 hover:opacity-50">
               <Link href={`/product/${encodeURIComponent(key)}`}>
               <a>
-              <Image className="rounded-xl" src="/images/beeshes.png" height="200" width="200"></Image>
+              <Image className="rounded-xl" src={`/images/${products[key].images[0]}`} height="200" width="200"></Image>
               <br></br>
               {products[key].name}
               </a>
